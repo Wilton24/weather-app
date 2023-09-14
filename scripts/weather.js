@@ -47,3 +47,7 @@ getWeatherBtn.addEventListener('click', getWeatherData);
 //     getWeatherData();
 //   }
 // })
+
+
+
+// Hi git :D
